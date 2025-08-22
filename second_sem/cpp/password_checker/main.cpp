@@ -21,8 +21,7 @@ int main()
      const bool IS_VALID = password.length() >= MIN_LENGTH && password.find(SUB_STRING) != string_t::npos;
 
      cout << "\n\n"
-          << (IS_VALID ? "Success! Valid password." : "Invalid password. Must include GCTU and a min of 8 chars.")
-          << "\n\n";
+          << (IS_VALID ? "Success! Valid password." : "Invalid password.") << "\n\n";
 
      return 0;
 }
