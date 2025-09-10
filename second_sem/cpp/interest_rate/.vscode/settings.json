@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    ".env*": "env",
+    ".env.*": "env",
+    "ctime": "cpp",
+    "xlocale": "cpp",
+    "iostream": "cpp",
+    "iomanip": "cpp"
+  }
+}
