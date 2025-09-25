@@ -3,7 +3,9 @@
     ".env*": "env",
     ".env.*": "env",
     "string": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "xstring": "cpp",
+    "xlocale": "cpp"
   },
   "cSpell.words": ["GCTU"]
 }
