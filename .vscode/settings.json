@@ -5,7 +5,13 @@
     "string": "cpp",
     "iostream": "cpp",
     "xstring": "cpp",
-    "xlocale": "cpp"
+    "xlocale": "cpp",
+    "iomanip": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp",
+    "vector": "cpp",
+    "xtree": "cpp",
+    "xutility": "cpp"
   },
   "cSpell.words": ["GCTU"]
 }
